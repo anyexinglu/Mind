@@ -15,6 +15,7 @@
 		2FA04C87208C293200558B13 /* MindTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA04C86208C293200558B13 /* MindTests.swift */; };
 		2FA04C92208C293200558B13 /* MindUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA04C91208C293200558B13 /* MindUITests.swift */; };
 		2FAB09E62098ACA800D05C33 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FAB09E52098ACA800D05C33 /* ListViewController.swift */; };
+		2FAB09EA209DD13000D05C33 /* ListTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FAB09E9209DD13000D05C33 /* ListTableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2FA04C91208C293200558B13 /* MindUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MindUITests.swift; sourceTree = "<group>"; };
 		2FA04C93208C293200558B13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FAB09E52098ACA800D05C33 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		2FAB09E9209DD13000D05C33 /* ListTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2FA04C78208C293100558B13 /* Assets.xcassets */,
 				2FA04C7A208C293100558B13 /* LaunchScreen.storyboard */,
 				2FA04C7D208C293100558B13 /* Info.plist */,
+				2FAB09E9209DD13000D05C33 /* ListTableCell.swift */,
 			);
 			path = Mind;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				2FA04C74208C292A00558B13 /* ViewController.swift in Sources */,
 				2FA04C72208C292A00558B13 /* AppDelegate.swift in Sources */,
+				2FAB09EA209DD13000D05C33 /* ListTableCell.swift in Sources */,
 				2FAB09E62098ACA800D05C33 /* ListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
